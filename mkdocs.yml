@@ -1,0 +1,10 @@
+site_name: recorder-napari
+site_description: calibration ui for recOrder
+site_author: Cameron Foltz
+
+theme: readthedocs
+
+repo_url: https://github.com/camfoltz/recorder-napari
+
+pages:
+- Home: index.md
